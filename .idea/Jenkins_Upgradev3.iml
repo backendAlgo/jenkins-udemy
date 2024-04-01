@@ -2,11 +2,14 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Jenkins_Pipelines_Jenkins_Files" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="groovy-5.0.0-alpha-1 (2)" level="project" />
     <orderEntry type="library" name="Jenkins" level="project" />
+    <orderEntry type="library" name="groovy-4.0.14" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
     <option name="uniqueId" value="039ead25-f428-4582-b1d9-85a3d0479e4d" />
