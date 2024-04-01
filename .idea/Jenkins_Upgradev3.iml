@@ -7,7 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="groovy-5.0.0-alpha-1 (2)" level="project" />
     <orderEntry type="library" name="Jenkins" level="project" />
     <orderEntry type="library" name="groovy-4.0.14" level="project" />
   </component>
